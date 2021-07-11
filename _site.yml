@@ -1,0 +1,17 @@
+name: "my-first-website"
+output_dir: "."
+navbar: 
+  title: "Chiloe's Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+  right: 
+    - icon: fa-github
+      href: https://github.com/cspelius/geog-13-2021
+    - text: "GIS Work"
+      href: geog13.html
+output:
+  html_document:
+  theme: darkly
+  
