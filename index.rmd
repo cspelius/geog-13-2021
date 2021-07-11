@@ -1,0 +1,15 @@
+#git add .
+#git commit -m 'lab 01'
+#git push
+
+---
+Title: "About Me"
+---
+
+<center>
+# Hello! I'm Chiloe!
+</center>
+rma
+I am from Sun Valley, Idaho and moved all the way to Santa Barbara, California to pursue my studies in geography. I have loved it so far.
+
+![Alt text](/Users/chiloespelius/geog-13-2021/img/sunflower.jpg)
