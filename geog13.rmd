@@ -1,0 +1,11 @@
+---
+title: "My Projects"
+---
+
+In the summer 20201 I took an intro to GIS computer programming course based in R. I learned how to code and dabbled in some data science. Here is a collection of links I worked on!
+
+## [Building a project website](https://github.com/cspelius/geog-13-2021/projects)
+
+- In this assignment we built a static users site with Github Pages
+- I was exposed to the basics of website construction, HTML, CSS, YMAL and markdown
+- I also practiced forking and contributing to another repository
